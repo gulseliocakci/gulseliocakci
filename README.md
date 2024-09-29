@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python.<br>
+🌱 I’m currently learning Kali Linux.<br>
 
 
 ## 🌐 Socials:
