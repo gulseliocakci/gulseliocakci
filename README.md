@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Linux and Python for robotics.<br>
+🌱 I’m a sophomore studying Computer Engineering, with a focus on developing my skills in cybersecurity and robotics.<br>
 
 
 ## 🌐 Socials:
