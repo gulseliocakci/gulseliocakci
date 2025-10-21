@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m a sophomore studying Computer Engineering, with a focus on developing my skills in cybersecurity and robotics.<br>
+🌱 I’m a junior studying Computer Engineering, with a focus on developing my skills in web development and cybersecurity.<br>
 
 
 ## 🌐 Socials:
